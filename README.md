@@ -39,12 +39,11 @@ I'm **Shabaz Shaik**
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Shabazshiek&theme=merko&hide_border=false&include_all_commits=true&count_private=false)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Shabazshiek&theme=merko&hide_border=false&include_all_commits=true&count_private=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Shabazshiek&theme=merko&hide_border=false)
+![Streak](https://streak-stats.demolab.com/?user=Shabazshiek&theme=merko&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shabazshiek&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shabazshiek&theme=merko&hide_border=false&layout=compact)
 ---
 
 ### ✍️ Dev Quote
