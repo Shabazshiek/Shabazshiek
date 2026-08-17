@@ -39,7 +39,7 @@ I'm **Shabaz Shaik**
 
 ## 📊 GitHub Stats
 
-![Stats](github-readme-stats-theta-weld-82.vercel.app)
+![Stats](https://github-readme-stats-theta-weld-82.vercel.app/api?username=Shabazshiek)
 
 ![Streak](https://streak-stats.demolab.com/?user=Shabazshiek&theme=merko&hide_border=false)
 
