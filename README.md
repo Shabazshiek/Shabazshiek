@@ -39,7 +39,7 @@ I'm **Shabaz Shaik**
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Shabazshiek&theme=merko&hide_border=false&include_all_commits=true&count_private=false)
+![Stats](https://github-readme-stats-the-wald-82.vercel.app)
 
 ![Streak](https://streak-stats.demolab.com/?user=Shabazshiek&theme=merko&hide_border=false)
 
