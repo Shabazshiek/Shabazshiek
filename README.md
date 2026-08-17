@@ -39,11 +39,11 @@ I'm **Shabaz Shaik**
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-the-wald-82.vercel.app)
+![Stats](github-readme-stats-theta-weld-82.vercel.app)
 
 ![Streak](https://streak-stats.demolab.com/?user=Shabazshiek&theme=merko&hide_border=false)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shabazshiek&theme=merko&hide_border=false&layout=compact)
+![Top Langs](https://github-readme-stats-theta-weld-82.vercel.app/api/top-langs/?username=Shabazshiek&theme=merko&hide_border=false&layout=compact)
 ---
 
 ### ✍️ Dev Quote
